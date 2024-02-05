@@ -1,0 +1,14 @@
+{
+  "name": "dat251_e2e",
+  "version": "1.0.0",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "description": "E2E testing for DAT251",
+  "main": "index.js",
+  "author": "Suresh Kumar Mukhiya",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
